@@ -1,0 +1,750 @@
+{
+"roles": [
+{
+"name": "Tank",
+"ko": "전사"
+},
+{
+"name": "Bruiser",
+"ko": "투사"
+},
+{
+"name": "Healer",
+"ko": "치유사"
+},
+{
+"name": "Support",
+"ko": "지원가"
+},
+{
+"name": "Melee Assassin",
+"ko": "근접 암살자"
+},
+{
+"name": "Ranged Assassin",
+"ko": "원거리 암살자"
+}
+],
+"heroes": [
+{
+"name": "Abathur",
+"slug": "abathur",
+"ko": "아바투르",
+"role": "Support",
+"role_ko": "지원가",
+"short_name": "abathur"
+},
+{
+"name": "Alarak",
+"slug": "alarak",
+"ko": "알라라크",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "alarak"
+},
+{
+"name": "Alexstrasza",
+"slug": "alexstrasza",
+"ko": "알렉스트라자",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "alexstrasza"
+},
+{
+"name": "Ana",
+"slug": "ana",
+"ko": "아나",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "ana"
+},
+{
+"name": "Anduin",
+"slug": "anduin",
+"ko": "안두인",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "anduin"
+},
+{
+"name": "Anub'arak",
+"slug": "anub-arak",
+"ko": "아눕아락",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "anubarak"
+},
+{
+"name": "Artanis",
+"slug": "artanis",
+"ko": "아르타니스",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "artanis"
+},
+{
+"name": "Arthas",
+"slug": "arthas",
+"ko": "아서스",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "arthas"
+},
+{
+"name": "Auriel",
+"slug": "auriel",
+"ko": "아우리엘",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "auriel"
+},
+{
+"name": "Azmodan",
+"slug": "azmodan",
+"ko": "아즈모단",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "azmodan"
+},
+{
+"name": "Blaze",
+"slug": "blaze",
+"ko": "블레이즈",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "blaze"
+},
+{
+"name": "Brightwing",
+"slug": "brightwing",
+"ko": "빛나래",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "brightwing"
+},
+{
+"name": "Cassia",
+"slug": "cassia",
+"ko": "카시아",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "cassia"
+},
+{
+"name": "Chen",
+"slug": "chen",
+"ko": "첸",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "chen"
+},
+{
+"name": "Cho",
+"slug": "cho",
+"ko": "초",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "cho"
+},
+{
+"name": "Chromie",
+"slug": "chromie",
+"ko": "크로미",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "chromie"
+},
+{
+"name": "D.Va",
+"slug": "d-va",
+"ko": "D.Va",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "dva"
+},
+{
+"name": "Deathwing",
+"slug": "deathwing",
+"ko": "데스윙",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "deathwing"
+},
+{
+"name": "Deckard",
+"slug": "deckard",
+"ko": "데커드",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "deckard"
+},
+{
+"name": "Dehaka",
+"slug": "dehaka",
+"ko": "데하카",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "dehaka"
+},
+{
+"name": "Diablo",
+"slug": "diablo",
+"ko": "디아블로",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "diablo"
+},
+{
+"name": "E.T.C.",
+"slug": "e-t-c",
+"ko": "정예 타우렌 족장",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "etc"
+},
+{
+"name": "Falstad",
+"slug": "falstad",
+"ko": "폴스타트",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "falstad"
+},
+{
+"name": "Fenix",
+"slug": "fenix",
+"ko": "피닉스",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "fenix"
+},
+{
+"name": "Gall",
+"slug": "gall",
+"ko": "갈",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "gall"
+},
+{
+"name": "Garrosh",
+"slug": "garrosh",
+"ko": "가로쉬",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "garrosh"
+},
+{
+"name": "Gazlowe",
+"slug": "gazlowe",
+"ko": "가즈로",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "gazlowe"
+},
+{
+"name": "Genji",
+"slug": "genji",
+"ko": "겐지",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "genji"
+},
+{
+"name": "Greymane",
+"slug": "greymane",
+"ko": "그레이메인",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "greymane"
+},
+{
+"name": "Gul'dan",
+"slug": "gul-dan",
+"ko": "굴단",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "guldan"
+},
+{
+"name": "Hanzo",
+"slug": "hanzo",
+"ko": "한조",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "hanzo"
+},
+{
+"name": "Hogger",
+"slug": "hogger",
+"ko": "호거",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "hogger"
+},
+{
+"name": "Illidan",
+"slug": "illidan",
+"ko": "일리단",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "illidan"
+},
+{
+"name": "Imperius",
+"slug": "imperius",
+"ko": "임페리우스",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "imperius"
+},
+{
+"name": "Jaina",
+"slug": "jaina",
+"ko": "제이나",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "jaina"
+},
+{
+"name": "Johanna",
+"slug": "johanna",
+"ko": "요한나",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "johanna"
+},
+{
+"name": "Junkrat",
+"slug": "junkrat",
+"ko": "정크랫",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "junkrat"
+},
+{
+"name": "Kael'thas",
+"slug": "kael-thas",
+"ko": "켈타스",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "kaelthas"
+},
+{
+"name": "Kel'Thuzad",
+"slug": "kel-thuzad",
+"ko": "켈투자드",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "kelthuzad"
+},
+{
+"name": "Kerrigan",
+"slug": "kerrigan",
+"ko": "케리건",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "kerrigan"
+},
+{
+"name": "Kharazim",
+"slug": "kharazim",
+"ko": "카라짐",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "kharazim"
+},
+{
+"name": "Leoric",
+"slug": "leoric",
+"ko": "레오릭",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "leoric"
+},
+{
+"name": "Li Li",
+"slug": "li-li",
+"ko": "리 리",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "lili"
+},
+{
+"name": "Li-Ming",
+"slug": "li-ming",
+"ko": "리밍",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "liming"
+},
+{
+"name": "Lt. Morales",
+"slug": "lt-morales",
+"ko": "모랄레스 중위",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "ltmorales"
+},
+{
+"name": "Lunara",
+"slug": "lunara",
+"ko": "루나라",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "lunara"
+},
+{
+"name": "Lúcio",
+"slug": "lucio",
+"ko": "루시우",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "lucio"
+},
+{
+"name": "Maiev",
+"slug": "maiev",
+"ko": "마이에브",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "maiev"
+},
+{
+"name": "Mal'Ganis",
+"slug": "mal-ganis",
+"ko": "말가니스",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "malganis"
+},
+{
+"name": "Malfurion",
+"slug": "malfurion",
+"ko": "말퓨리온",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "malfurion"
+},
+{
+"name": "Malthael",
+"slug": "malthael",
+"ko": "말티엘",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "malthael"
+},
+{
+"name": "Medivh",
+"slug": "medivh",
+"ko": "메디브",
+"role": "Support",
+"role_ko": "지원가",
+"short_name": "medivh"
+},
+{
+"name": "Mei",
+"slug": "mei",
+"ko": "메이",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "mei"
+},
+{
+"name": "Mephisto",
+"slug": "mephisto",
+"ko": "메피스토",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "mephisto"
+},
+{
+"name": "Muradin",
+"slug": "muradin",
+"ko": "무라딘",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "muradin"
+},
+{
+"name": "Murky",
+"slug": "murky",
+"ko": "머키",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "murky"
+},
+{
+"name": "Nazeebo",
+"slug": "nazeebo",
+"ko": "나지보",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "nazeebo"
+},
+{
+"name": "Nova",
+"slug": "nova",
+"ko": "노바",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "nova"
+},
+{
+"name": "Orphea",
+"slug": "orphea",
+"ko": "오르피아",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "orphea"
+},
+{
+"name": "Probius",
+"slug": "probius",
+"ko": "프로비우스",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "probius"
+},
+{
+"name": "Qhira",
+"slug": "qhira",
+"ko": "키라",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "qhira"
+},
+{
+"name": "Ragnaros",
+"slug": "ragnaros",
+"ko": "라그나로스",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "ragnaros"
+},
+{
+"name": "Raynor",
+"slug": "raynor",
+"ko": "레이너",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "raynor"
+},
+{
+"name": "Rehgar",
+"slug": "rehgar",
+"ko": "레가르",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "rehgar"
+},
+{
+"name": "Rexxar",
+"slug": "rexxar",
+"ko": "렉사르",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "rexxar"
+},
+{
+"name": "Samuro",
+"slug": "samuro",
+"ko": "사무로",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "samuro"
+},
+{
+"name": "Sgt. Hammer",
+"slug": "sgt-hammer",
+"ko": "해머 상사",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "sgthammer"
+},
+{
+"name": "Sonya",
+"slug": "sonya",
+"ko": "소냐",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "sonya"
+},
+{
+"name": "Stitches",
+"slug": "stitches",
+"ko": "스티치스",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "stitches"
+},
+{
+"name": "Stukov",
+"slug": "stukov",
+"ko": "스투코프",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "stukov"
+},
+{
+"name": "Sylvanas",
+"slug": "sylvanas",
+"ko": "실바나스",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "sylvanas"
+},
+{
+"name": "Tassadar",
+"slug": "tassadar",
+"ko": "태사다르",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "tassadar"
+},
+{
+"name": "The Butcher",
+"slug": "the-butcher",
+"ko": "도살자",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "thebutcher"
+},
+{
+"name": "The Lost Vikings",
+"slug": "the-lost-vikings",
+"ko": "잃어버린 바이킹",
+"role": "Support",
+"role_ko": "지원가",
+"short_name": "thelostvikings"
+},
+{
+"name": "Thrall",
+"slug": "thrall",
+"ko": "스랄",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "thrall"
+},
+{
+"name": "Tracer",
+"slug": "tracer",
+"ko": "트레이서",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "tracer"
+},
+{
+"name": "Tychus",
+"slug": "tychus",
+"ko": "타이커스",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "tychus"
+},
+{
+"name": "Tyrael",
+"slug": "tyrael",
+"ko": "티리엘",
+"role": "Tank",
+"role_ko": "전사",
+"short_name": "tyrael"
+},
+{
+"name": "Tyrande",
+"slug": "tyrande",
+"ko": "티란데",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "tyrande"
+},
+{
+"name": "Uther",
+"slug": "uther",
+"ko": "우서",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "uther"
+},
+{
+"name": "Valeera",
+"slug": "valeera",
+"ko": "발리라",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "valeera"
+},
+{
+"name": "Valla",
+"slug": "valla",
+"ko": "발라",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "valla"
+},
+{
+"name": "Varian",
+"slug": "varian",
+"ko": "바리안",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "varian"
+},
+{
+"name": "Whitemane",
+"slug": "whitemane",
+"ko": "화이트메인",
+"role": "Healer",
+"role_ko": "치유사",
+"short_name": "whitemane"
+},
+{
+"name": "Xul",
+"slug": "xul",
+"ko": "줄",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "xul"
+},
+{
+"name": "Yrel",
+"slug": "yrel",
+"ko": "이렐",
+"role": "Bruiser",
+"role_ko": "투사",
+"short_name": "yrel"
+},
+{
+"name": "Zagara",
+"slug": "zagara",
+"ko": "자가라",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "zagara"
+},
+{
+"name": "Zarya",
+"slug": "zarya",
+"ko": "자리야",
+"role": "Support",
+"role_ko": "지원가",
+"short_name": "zarya"
+},
+{
+"name": "Zeratul",
+"slug": "zeratul",
+"ko": "제라툴",
+"role": "Melee Assassin",
+"role_ko": "근접 암살자",
+"short_name": "zeratul"
+},
+{
+"name": "Zul'jin",
+"slug": "zul-jin",
+"ko": "줄진",
+"role": "Ranged Assassin",
+"role_ko": "원거리 암살자",
+"short_name": "zuljin"
+}
+]
+}

@@ -1,0 +1,79 @@
+{
+"maps": [
+{
+"name": "Alterac Pass",
+"ko": "알터랙 고개",
+"slug": "alterac-pass"
+},
+{
+"name": "Battlefield of Eternity",
+"ko": "영원의 전쟁터",
+"slug": "battlefield-of-eternity"
+},
+{
+"name": "Blackheart's Bay",
+"ko": "블랙하트 항만",
+"slug": "blackheart-s-bay"
+},
+{
+"name": "Braxis Holdout",
+"ko": "브락시스 항전",
+"slug": "braxis-holdout"
+},
+{
+"name": "Cursed Hollow",
+"ko": "저주받은 골짜기",
+"slug": "cursed-hollow"
+},
+{
+"name": "Dragon Shire",
+"ko": "용의 둥지",
+"slug": "dragon-shire"
+},
+{
+"name": "Garden of Terror",
+"ko": "공포의 정원",
+"slug": "garden-of-terror"
+},
+{
+"name": "Hanamura Temple",
+"ko": "하나무라 사원",
+"slug": "hanamura-temple"
+},
+{
+"name": "Haunted Mines",
+"ko": "유령 광산",
+"slug": "haunted-mines"
+},
+{
+"name": "Infernal Shrines",
+"ko": "불지옥 신단",
+"slug": "infernal-shrines"
+},
+{
+"name": "Sky Temple",
+"ko": "하늘 사원",
+"slug": "sky-temple"
+},
+{
+"name": "Tomb of the Spider Queen",
+"ko": "거미 여왕의 무덤",
+"slug": "tomb-of-the-spider-queen"
+},
+{
+"name": "Towers of Doom",
+"ko": "파멸의 탑",
+"slug": "towers-of-doom"
+},
+{
+"name": "Volskaya Foundry",
+"ko": "볼스카야 공장",
+"slug": "volskaya-foundry"
+},
+{
+"name": "Warhead Junction",
+"ko": "핵탄두 격전지",
+"slug": "warhead-junction"
+}
+]
+}
