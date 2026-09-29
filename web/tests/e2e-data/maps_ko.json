@@ -94,7 +94,7 @@
 "source": {
 "images": "HeroesToolChest/heroes-images replaypreviews (MIT), resized to 480px",
 "names": "official Korean battleground names (cross-checked 2026-09-28)",
-"aram": "ARAM maps (player search only; no stats are collected for them). Braxis Outpost, Lost Cavern, Silver City: HeroesToolChest heroes-data 2.55.16.97039 gamestrings kokr/enus rewardportrait names (BraxisOutpostPortrait, LostCavernPortrait, SilverCityPortrait: '<map> Portrait' / '<map> 초상화'). Industrial District is not in the game strings: '공업 지구' is the name Korean players use on the official forum (kr.forums.blizzard.com/ko/heroes/t/3812, /t/3179), not verified against the client"
+"aram": "ARAM maps (player search only; no stats are collected for them). Braxis Outpost, Lost Cavern, Silver City: HeroesToolChest heroes-data 2.55.16.97039 gamestrings kokr/enus rewardportrait names (BraxisOutpostPortrait, LostCavernPortrait, SilverCityPortrait: '<map> Portrait' / '<map> 초상화'). Industrial District (not in the game strings): '공업 지구' from Blizzard's own Korean news, the weekly brawl posts that ran this same map (the Overwatch-themed single-lane Volskaya battleground) as a brawl before it joined ARAM, e.g. '2019년 1월 11일 주간 히어로즈 난투: 공업 지구' (news.blizzard.com/ko-kr/article/22863336, en-us counterpart 'Heroes Brawl of the Week, January 11, 2019: Industrial District'); also 2018-01-12 (21349577), 2018-03-23 (21651542), 2018-08-17 (22265424), 2018-10-12 (22548918)"
 },
 "aram": [
 {
