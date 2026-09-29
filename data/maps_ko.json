@@ -93,6 +93,25 @@
 ],
 "source": {
 "images": "HeroesToolChest/heroes-images replaypreviews (MIT), resized to 480px",
-"names": "official Korean battleground names (cross-checked 2026-09-28)"
+"names": "official Korean battleground names (cross-checked 2026-09-28)",
+"aram": "ARAM maps (player search only; no stats are collected for them). Braxis Outpost, Lost Cavern, Silver City: HeroesToolChest heroes-data 2.55.16.97039 gamestrings kokr/enus rewardportrait names (BraxisOutpostPortrait, LostCavernPortrait, SilverCityPortrait: '<map> Portrait' / '<map> 초상화'). Industrial District is not in the game strings: '공업 지구' is the name Korean players use on the official forum (kr.forums.blizzard.com/ko/heroes/t/3812, /t/3179), not verified against the client"
+},
+"aram": [
+{
+"name": "Braxis Outpost",
+"ko": "브락시스 전초기지"
+},
+{
+"name": "Industrial District",
+"ko": "공업 지구"
+},
+{
+"name": "Lost Cavern",
+"ko": "잃어버린 동굴"
+},
+{
+"name": "Silver City",
+"ko": "은빛 도시"
 }
+]
 }
