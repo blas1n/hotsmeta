@@ -1,7 +1,8 @@
 {
   "_source": {
     "objectives": "Blizzard Entertainment, 히어로즈 오브 더 스톰 공식 사이트 전장 페이지 (ko-kr), 'Battleground objectives' text as published; the pages are offline now, each map cites its Internet Archive snapshot",
-    "note": "Only facts printed on the official pages. No timings: no official source publishes them, so none are given."
+    "note": "Only facts printed on the official pages. No timings: no official source publishes them, so none are given.",
+    "objectives_en": "Blizzard Entertainment, Heroes of the Storm official site battleground pages (en-us): the same pages in English, text as published; each map cites its Internet Archive snapshot. A map without an English page keeps its Korean text and says so (en.fallback: \"ko\")"
   },
   "maps": {
     "alterac-pass": {
@@ -24,6 +25,27 @@
         "title": "알터랙 고개 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211016175220/https://heroesofthestorm.com/ko-kr/battlegrounds/alterac-pass/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/alterac-pass/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Prison Camps",
+            "text": "Capture the enemy Prison Camp to summon your Cavalry. Camps can be retaken by Heroes and Minions, so guard them well!"
+          },
+          {
+            "title": "Cavalry",
+            "text": "Cavalry soldiers charge down each lane when summoned granting increased damage and movement speed to nearby Allied Heroes."
+          },
+          {
+            "title": "Generals",
+            "text": "Each team’s Core has been replaced by a General who fights against attacking enemies. Destroying a Keep reduces the General’s Armor."
+          }
+        ],
+        "source": {
+          "title": "Alterac Pass - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025010630/https://heroesofthestorm.com/en-us/battlegrounds/alterac-pass/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/alterac-pass/"
+        }
       }
     },
     "battlefield-of-eternity": {
@@ -46,6 +68,27 @@
         "title": "영원의 전쟁터 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211023174936/https://heroesofthestorm.com/ko-kr/battlegrounds/battlefield-of-eternity/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/battlefield-of-eternity/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Battling Immortals",
+            "text": "The angel lieutenant Ilarian and the demon lord Beleth are locked in an endless war."
+          },
+          {
+            "title": "Defeat the Enemy",
+            "text": "Aid your immortal ally against his foe to claim victory."
+          },
+          {
+            "title": "Devastate Forts",
+            "text": "Rally to your immortal as he wreaks havoc on the enemy's forts!"
+          }
+        ],
+        "source": {
+          "title": "Battlefield of Eternity - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211021000505/https://heroesofthestorm.com/en-us/battlegrounds/battlefield-of-eternity/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/battlefield-of-eternity/"
+        }
       }
     },
     "blackheart-s-bay": {
@@ -68,6 +111,27 @@
         "title": "블랙하트 항만 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211020132506/https://heroesofthestorm.com/ko-kr/battlegrounds/blackhearts-bay/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/blackhearts-bay/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Collect Doubloons",
+            "text": "Attack Treasure Chests and Mercenaries to collect Doubloons."
+          },
+          {
+            "title": "Turn in Doubloons",
+            "text": "Hand your Doubloons over to Blackheart or you will drop them all when you die!"
+          },
+          {
+            "title": "Bombard your Enemies",
+            "text": "After receiving enough Doubloons from your Team, Blackheart will bombard your Enemy's forts!"
+          }
+        ],
+        "source": {
+          "title": "Blackheart's Bay - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025012906/https://heroesofthestorm.com/en-us/battlegrounds/blackhearts-bay/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/blackhearts-bay/"
+        }
       }
     },
     "braxis-holdout": {
@@ -90,6 +154,27 @@
         "title": "브락시스 항전 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211209142705/https://heroesofthestorm.com/ko-kr/battlegrounds/braxis-holdout/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/braxis-holdout/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Capture the Beacons",
+            "text": "Periodically two beacons will activate. Capture both to fill your Holding Cell with Zerg."
+          },
+          {
+            "title": "Fill Holding Cells",
+            "text": "Once either Holding Cell fills, both open and unleash waves of Zerg at each team’s base."
+          },
+          {
+            "title": "Zerg Rush",
+            "text": "Hold out against the enemy’s Zerg while helping yours. The Zerg will attack Heroes, so engage cautiously."
+          }
+        ],
+        "source": {
+          "title": "Braxis Holdout - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025014736/https://heroesofthestorm.com/en-us/battlegrounds/braxis-holdout/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/braxis-holdout/"
+        }
       }
     },
     "cursed-hollow": {
@@ -112,6 +197,27 @@
         "title": "저주받은 골짜기 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211020133630/https://heroesofthestorm.com/ko-kr/battlegrounds/cursed-hollow/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/cursed-hollow/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Collect Tributes",
+            "text": "The Raven Lord will create Tributes periodically. Gather them for your team!"
+          },
+          {
+            "title": "Curse Your Enemies",
+            "text": "Upon capturing three Tributes, the Raven Lord will curse your enemies!"
+          },
+          {
+            "title": "Cursed Forts and Minions",
+            "text": "Cursed Forts will not attack, and cursed Minions are reduced to 1 Health."
+          }
+        ],
+        "source": {
+          "title": "Cursed Hollow - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025013656/https://heroesofthestorm.com/en-us/battlegrounds/cursed-hollow/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/cursed-hollow/"
+        }
       }
     },
     "dragon-shire": {
@@ -134,6 +240,27 @@
         "title": "용의 둥지 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211020124731/https://heroesofthestorm.com/ko-kr/battlegrounds/dragon-shire/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/dragon-shire/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Control the Shrines",
+            "text": "There are two Shrines your team needs to control to activate the Dragon Knight's statue!"
+          },
+          {
+            "title": "Free the Dragon Knight",
+            "text": "While activated, bring a Hero to the statue to free him from his prison!"
+          },
+          {
+            "title": "Devastate Enemy Forts",
+            "text": "Use the Dragon's immense power to level enemy Forts!"
+          }
+        ],
+        "source": {
+          "title": "Dragon Shire - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025004434/https://heroesofthestorm.com/en-us/battlegrounds/dragon-shire/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/dragon-shire/"
+        }
       }
     },
     "garden-of-terror": {
@@ -156,6 +283,27 @@
         "title": "공포의 정원 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211025010833/https://heroesofthestorm.com/ko-kr/battlegrounds/garden-of-terror/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/garden-of-terror/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Seeds Spawn",
+            "text": "Queen Nightshade will periodically summon a Seed. Defeat its Shambler Defenders and gather it for your team!"
+          },
+          {
+            "title": "Collect Seeds",
+            "text": "Upon gathering three Seeds, Garden Terrors will immediately burrow to each lane."
+          },
+          {
+            "title": "Garden Terrors",
+            "text": "Garden Terrors disable enemy towers and forts, so fight alongside them!"
+          }
+        ],
+        "source": {
+          "title": "Garden of Terror - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025011814/https://heroesofthestorm.com/en-us/battlegrounds/garden-of-terror/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/garden-of-terror/"
+        }
       }
     },
     "hanamura-temple": {
@@ -178,6 +326,27 @@
         "title": "하나무라 사원 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211023174446/https://heroesofthestorm.com/ko-kr/battlegrounds/hanamura/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/hanamura/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Single Payload",
+            "text": "At regular intervals, a payload spawns at the center of the battleground that can be contested by both teams."
+          },
+          {
+            "title": "Escort Payload",
+            "text": "Stand next to the payload and move it to its destination. Prevent the enemy from trying to do the same."
+          },
+          {
+            "title": "Bombard your Enemy",
+            "text": "Once a team escorts the payload to its destination, it will fire upon the enemy’s forts!"
+          }
+        ],
+        "source": {
+          "title": "Hanamura Temple - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211023175315/https://heroesofthestorm.com/en-us/battlegrounds/hanamura/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/hanamura/"
+        }
       }
     },
     "haunted-mines": {
@@ -200,6 +369,27 @@
         "title": "죽음의 광산 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211128201510/https://heroesofthestorm.com/ko-kr/battlegrounds/haunted-mines/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/haunted-mines/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Venture Underground",
+            "text": "The Haunted Mines will periodically open with an Undead Army underneath!"
+          },
+          {
+            "title": "Collect the Skulls",
+            "text": "Destroy the Undead and collect their Skulls to power your Golems!"
+          },
+          {
+            "title": "Unleash the Golems",
+            "text": "After the Army has been defeated, the Golems will arise for both teams! The more Skulls your team collects, the stronger your Golem!"
+          }
+        ],
+        "source": {
+          "title": "Haunted Mines - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211203104626/https://heroesofthestorm.com/en-us/battlegrounds/haunted-mines/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/haunted-mines/"
+        }
       }
     },
     "infernal-shrines": {
@@ -222,6 +412,27 @@
         "title": "불지옥 신단 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211020121539/https://heroesofthestorm.com/ko-kr/battlegrounds/infernal-shrines/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/infernal-shrines/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Activate the Shrines",
+            "text": "The Infernal Shrines periodically gather power.  Activate them and prepare for a fight."
+          },
+          {
+            "title": "Defeat Guardians",
+            "text": "Slay 40 Guardians before the enemy team to bring forth a mighty Punisher."
+          },
+          {
+            "title": "Beware the Punisher",
+            "text": "Punishers have one of three devastating powers. Be careful, they focus on attacking Heroes above all else."
+          }
+        ],
+        "source": {
+          "title": "Infernal Shrines - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025001406/https://heroesofthestorm.com/en-us/battlegrounds/infernal-shrines/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/infernal-shrines/"
+        }
       }
     },
     "sky-temple": {
@@ -244,6 +455,27 @@
         "title": "하늘 사원 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211203160049/https://heroesofthestorm.com/ko-kr/battlegrounds/sky-temple/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/sky-temple/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Capture the Temples",
+            "text": "Temples will periodically activate. Stand within their grounds to capture their power!"
+          },
+          {
+            "title": "Hold the Temples",
+            "text": "Stand firm and the Temple will unleash a blistering onslaught on your enemy's forts!"
+          },
+          {
+            "title": "Defend the Temples",
+            "text": "Guardians will try to wrest control of their Temples from your team. Hold them off to keep the Temple's power for yourselves!"
+          }
+        ],
+        "source": {
+          "title": "Sky Temple - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025002750/https://heroesofthestorm.com/en-us/battlegrounds/sky-temple/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/sky-temple/"
+        }
       }
     },
     "tomb-of-the-spider-queen": {
@@ -266,6 +498,27 @@
         "title": "거미 여왕의 무덤 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20220521230908/https://heroesofthestorm.com/ko-kr/battlegrounds/tomb-of-the-spider-queen/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/tomb-of-the-spider-queen/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Collect Gems",
+            "text": "Enemy spider minions and Heroes drop magical Gems upon death. Gather as many as you can."
+          },
+          {
+            "title": "Turn in Gems",
+            "text": "Relinquish your Gems at one of the Spider Queen's Altars or you will drop them all when you die!"
+          },
+          {
+            "title": "Summon Webweavers",
+            "text": "Whichever team turns in enough Gems first will unleash the Webweavers to destroy their enemy's defenses."
+          }
+        ],
+        "source": {
+          "title": "Tomb of the Spider Queen - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20220520011916/https://heroesofthestorm.com/en-us/battlegrounds/tomb-of-the-spider-queen/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/tomb-of-the-spider-queen/"
+        }
       }
     },
     "towers-of-doom": {
@@ -288,6 +541,27 @@
         "title": "파멸의 탑 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211016171938/https://heroesofthestorm.com/ko-kr/battlegrounds/towers-of-doom/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/towers-of-doom/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Protected Cores",
+            "text": "Both Cores are protected by a barrier that cannot be attacked by Heroes. To be victorious, you must activate Altars."
+          },
+          {
+            "title": "Activate Altars",
+            "text": "Periodically Altars will rise across the battlefield. Activate them to have your Bell Towers fire upon the enemy's Core."
+          },
+          {
+            "title": "Claim Bell Towers",
+            "text": "Destroy your enemy's Towers to bring them under your team's control. The more Towers you have, the more damage an altar will do."
+          }
+        ],
+        "source": {
+          "title": "Towers of Doom - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20210927014744/https://heroesofthestorm.com/en-us/battlegrounds/towers-of-doom/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/towers-of-doom/"
+        }
       }
     },
     "volskaya-foundry": {
@@ -310,6 +584,27 @@
         "title": "볼스카야 공장 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211128210130/https://heroesofthestorm.com/ko-kr/battlegrounds/volskaya/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/volskaya/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Capture Points",
+            "text": "Control points activate occasionally. Stand within them to capture them. Fully capturing a point grants you control of a giant mech."
+          },
+          {
+            "title": "Control the Protector",
+            "text": "The Triglav Protector mech is controlled by two players: one pilot and one gunner. Work together!"
+          },
+          {
+            "title": "Destroy Everything",
+            "text": "The Protector's abilities deal incredible damage to structures and Heroes alike. Use it to lay waste to your enemy."
+          }
+        ],
+        "source": {
+          "title": "Volskaya Foundry - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025014015/https://heroesofthestorm.com/en-us/battlegrounds/volskaya/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/volskaya/"
+        }
       }
     },
     "warhead-junction": {
@@ -332,6 +627,27 @@
         "title": "핵탄두 격전지 - 히어로즈 오브 더 스톰",
         "url": "https://web.archive.org/web/20211023183229/https://heroesofthestorm.com/ko-kr/battlegrounds/warhead-junction/",
         "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/warhead-junction/"
+      },
+      "en": {
+        "objective": [
+          {
+            "title": "Warhead Deployment",
+            "text": "Multiple Warheads spawn periodically across the battleground."
+          },
+          {
+            "title": "Collect Warheads",
+            "text": "Pick up a Warhead to activate your Nuke. Use it or you will drop it when you die!"
+          },
+          {
+            "title": "Call Down the Thunder",
+            "text": "Launch Nukes to devastate the enemy team's fortifications."
+          }
+        ],
+        "source": {
+          "title": "Warhead Junction - Heroes of the Storm",
+          "url": "https://web.archive.org/web/20211025021222/https://heroesofthestorm.com/en-us/battlegrounds/warhead-junction/",
+          "original": "https://heroesofthestorm.com/en-us/battlegrounds/warhead-junction/"
+        }
       }
     }
   }
