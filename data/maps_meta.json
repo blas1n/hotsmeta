@@ -1,0 +1,338 @@
+{
+  "_source": {
+    "objectives": "Blizzard Entertainment, 히어로즈 오브 더 스톰 공식 사이트 전장 페이지 (ko-kr), 'Battleground objectives' text as published; the pages are offline now, each map cites its Internet Archive snapshot",
+    "note": "Only facts printed on the official pages. No timings: no official source publishes them, so none are given."
+  },
+  "maps": {
+    "alterac-pass": {
+      "name": "Alterac Pass",
+      "objective": [
+        {
+          "title": "포로수용소",
+          "text": "적의 포로수용소를 공격하면 아군의 기병대가 충원됩니다. 수용소는 영웅이나 돌격병이 다시 빼앗을 수 있으니 주의하세요!"
+        },
+        {
+          "title": "기병대",
+          "text": "기병대는 각 공격로에 소환되어 적을 향해 돌진합니다. 기병대 주위의 아군 영웅은 공격력과 이동 속도가 증가합니다."
+        },
+        {
+          "title": "사령관",
+          "text": "각 팀의 핵이 침입하는 적과 싸우는 사령관으로 대체됩니다. 성채를 파괴하면 사령관의 방어력이 감소합니다."
+        }
+      ],
+      "source": {
+        "title": "알터랙 고개 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211016175220/https://heroesofthestorm.com/ko-kr/battlegrounds/alterac-pass/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/alterac-pass/"
+      }
+    },
+    "battlefield-of-eternity": {
+      "name": "Battlefield of Eternity",
+      "objective": [
+        {
+          "title": "불멸자 전투",
+          "text": "천사 부관 일라리안과 악마 군주 벨레스가 끝없는 전투를 펼칩니다."
+        },
+        {
+          "title": "적 처치",
+          "text": "아군 불멸자가 상대를 무찔러 승리를 쟁취하도록 도우세요."
+        },
+        {
+          "title": "요새 파괴",
+          "text": "아군 불멸자와 함께 진격해서 상대 팀 요새를 파괴하세요!"
+        }
+      ],
+      "source": {
+        "title": "영원의 전쟁터 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211023174936/https://heroesofthestorm.com/ko-kr/battlegrounds/battlefield-of-eternity/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/battlefield-of-eternity/"
+      }
+    },
+    "blackheart-s-bay": {
+      "name": "Blackheart's Bay",
+      "objective": [
+        {
+          "title": "금화 수집",
+          "text": "보물 상자를 공격하거나 용병을 처치해서 금화를 수집하세요."
+        },
+        {
+          "title": "금화 지불",
+          "text": "수집한 금화를 블랙하트에게 지불하세요. 그 전에 죽으면 금화를 모두 떨어트리게 됩니다!"
+        },
+        {
+          "title": "집중 포격",
+          "text": "금화를 충분히 지불하면, 블랙하트가 상대 팀 요새에 포격을 가합니다!"
+        }
+      ],
+      "source": {
+        "title": "블랙하트 항만 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211020132506/https://heroesofthestorm.com/ko-kr/battlegrounds/blackhearts-bay/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/blackhearts-bay/"
+      }
+    },
+    "braxis-holdout": {
+      "name": "Braxis Holdout",
+      "objective": [
+        {
+          "title": "신호기 점령",
+          "text": "주기적으로 두 곳의 신호기가 활성화됩니다. 양쪽 신호기를 모두 점령하면 해당 팀의 수용실에 저그가 모입니다."
+        },
+        {
+          "title": "수용실 채우기",
+          "text": "어느 한 쪽의 수용실이 가득 차면, 모든 수용실이 개방되고 각각의 수용실에서 저그 무리가 상대방 진영으로 돌격합니다."
+        },
+        {
+          "title": "저그의 공세",
+          "text": "상대 팀의 저그에 맞서며 아군 저그를 도우세요. 저그는 영웅도 무차별적으로 공격하니 주의하세요."
+        }
+      ],
+      "source": {
+        "title": "브락시스 항전 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211209142705/https://heroesofthestorm.com/ko-kr/battlegrounds/braxis-holdout/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/braxis-holdout/"
+      }
+    },
+    "cursed-hollow": {
+      "name": "Cursed Hollow",
+      "objective": [
+        {
+          "title": "공물 수집",
+          "text": "까마귀 군주가 주기적으로 공물을 생성합니다. 팀의 승리를 위해 공물을 수집하세요!"
+        },
+        {
+          "title": "까마귀 군주의 저주",
+          "text": "공물을 세 개 수집하면 까마귀 군주가 상대 팀에 저주를 내립니다!"
+        },
+        {
+          "title": "저주받은 요새와 돌격병",
+          "text": "저주받은 팀의 요새는 공격이 중단되고 돌격병의 생명력이 1로 감소합니다."
+        }
+      ],
+      "source": {
+        "title": "저주받은 골짜기 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211020133630/https://heroesofthestorm.com/ko-kr/battlegrounds/cursed-hollow/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/cursed-hollow/"
+      }
+    },
+    "dragon-shire": {
+      "name": "Dragon Shire",
+      "objective": [
+        {
+          "title": "신단 점령",
+          "text": "전장의 두 신단을 점령하면 용기사 석상을 활성화할 수 있습니다!"
+        },
+        {
+          "title": "용기사 해방",
+          "text": "활성화된 용기사 석상으로 영웅을 데려가서 용기사를 해방시킬 수 있습니다!"
+        },
+        {
+          "title": "용기사의 분노",
+          "text": "용기사의 압도적인 힘으로 상대 팀 요새를 파괴하세요!"
+        }
+      ],
+      "source": {
+        "title": "용의 둥지 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211020124731/https://heroesofthestorm.com/ko-kr/battlegrounds/dragon-shire/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/dragon-shire/"
+      }
+    },
+    "garden-of-terror": {
+      "name": "Garden of Terror",
+      "objective": [
+        {
+          "title": "씨앗 생성",
+          "text": "밤그늘 여왕은 주기적으로 씨앗을 소환합니다. 괴식물 수호자들을 물리치고 씨앗을 차지하세요!"
+        },
+        {
+          "title": "씨앗 수집",
+          "text": "씨앗을 3개 차지하면 각 공격로에 정원 공포가 생성됩니다."
+        },
+        {
+          "title": "정원 공포",
+          "text": "정원 공포들은 적의 구조물들을 무력화시킵니다. 정원 공포와 함께 적을 무찌르세요!"
+        }
+      ],
+      "source": {
+        "title": "공포의 정원 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211025010833/https://heroesofthestorm.com/ko-kr/battlegrounds/garden-of-terror/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/garden-of-terror/"
+      }
+    },
+    "hanamura-temple": {
+      "name": "Hanamura Temple",
+      "objective": [
+        {
+          "title": "단일 화물",
+          "text": "주기적으로 전장 중앙에 화물이 생성됩니다. 화물은 양 팀 모두 호위할 수 있습니다."
+        },
+        {
+          "title": "화물 호위",
+          "text": "화물을 목적지까지 호위하세요. 화물을 탈취하려는 적 또한 막아야 합니다."
+        },
+        {
+          "title": "적 포격",
+          "text": "화물을 목적지까지 호위하면 화물이 적 구조물에 포격을 가합니다!"
+        }
+      ],
+      "source": {
+        "title": "하나무라 사원 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211023174446/https://heroesofthestorm.com/ko-kr/battlegrounds/hanamura/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/hanamura/"
+      }
+    },
+    "haunted-mines": {
+      "name": "Haunted Mines",
+      "objective": [
+        {
+          "title": "지하 탐험",
+          "text": "언데드가 우글거리는 죽음의 폐광이 주기적으로 열립니다!"
+        },
+        {
+          "title": "해골 수집",
+          "text": "언데드를 처치하고 해골을 수집해서 아군 골렘을 강화시키세요!"
+        },
+        {
+          "title": "골렘 해방",
+          "text": "언데드를 모두 처치하면 양 팀 골렘이 일어납니다! 해골을 많이 수집할수록 골렘이 더욱 강력해집니다!"
+        }
+      ],
+      "source": {
+        "title": "죽음의 광산 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211128201510/https://heroesofthestorm.com/ko-kr/battlegrounds/haunted-mines/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/haunted-mines/"
+      }
+    },
+    "infernal-shrines": {
+      "name": "Infernal Shrines",
+      "objective": [
+        {
+          "title": "신단 활성화",
+          "text": "불지옥 신단에 주기적으로 힘이 모입니다. 신단을 활성화하고 전투를 준비하세요."
+        },
+        {
+          "title": "수호자 처치",
+          "text": "상대 팀보다 먼저 수호자 40마리를 처치하고 강력한 응징자를 불러내세요."
+        },
+        {
+          "title": "응징자",
+          "text": "응징자들은 세 가지 강력한 힘 중 하나를 지니고 있습니다. 조심하세요. 이들은 다른 무엇보다 영웅을 공격하는 데 집중합니다."
+        }
+      ],
+      "source": {
+        "title": "불지옥 신단 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211020121539/https://heroesofthestorm.com/ko-kr/battlegrounds/infernal-shrines/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/infernal-shrines/"
+      }
+    },
+    "sky-temple": {
+      "name": "Sky Temple",
+      "objective": [
+        {
+          "title": "사원 점령",
+          "text": "사원이 주기적으로 활성화됩니다. 활성화된 사원에 서서 사원의 힘을 차지하세요!"
+        },
+        {
+          "title": "사원 사수",
+          "text": "사원에 굳건히 서 있으면 사원이 상대 팀 요새에 맹렬한 공격을 가합니다!"
+        },
+        {
+          "title": "사원 방어",
+          "text": "수호병들이 자신들의 사원을 되찾으려고 노력할 것입니다. 그들을 저지하며 사원의 힘을 지켜내세요!"
+        }
+      ],
+      "source": {
+        "title": "하늘 사원 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211203160049/https://heroesofthestorm.com/ko-kr/battlegrounds/sky-temple/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/sky-temple/"
+      }
+    },
+    "tomb-of-the-spider-queen": {
+      "name": "Tomb of the Spider Queen",
+      "objective": [
+        {
+          "title": "보석 수집",
+          "text": "상대 팀 거미 돌격병과 영웅이 죽을 때 마법의 보석을 떨어트립니다. 보석을 최대한 많이 모으세요."
+        },
+        {
+          "title": "보석 반납",
+          "text": "수집한 보석을 거미 여왕의 제단 중 하나로 가져가세요. 그 전에 죽으면 보석을 모두 떨어트리게 됩니다!"
+        },
+        {
+          "title": "거미 시종 소환",
+          "text": "먼저 충분한 보석을 반납한 팀은 강력한 거미 시종의 도움을 받아 적의 방어선을 파괴할 수 있습니다."
+        }
+      ],
+      "source": {
+        "title": "거미 여왕의 무덤 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20220521230908/https://heroesofthestorm.com/ko-kr/battlegrounds/tomb-of-the-spider-queen/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/tomb-of-the-spider-queen/"
+      }
+    },
+    "towers-of-doom": {
+      "name": "Towers of Doom",
+      "objective": [
+        {
+          "title": "보호되는 핵",
+          "text": "양 팀의 핵은 강력한 방벽으로 보호받고 있어 영웅들이 공격할 수 없습니다. 승리하려면 제단을 활성화해야 합니다."
+        },
+        {
+          "title": "제단 활성화",
+          "text": "제단이 주기적으로 솟아오릅니다. 제단을 활성화하면 아군이 보유한 종탑이 상대 팀 핵에 포격을 가합니다."
+        },
+        {
+          "title": "종탑 차지",
+          "text": "상대 팀의 탑을 파괴하면 그 탑은 아군의 소유가 됩니다. 더 많은 탑을 보유할수록 제단을 활성화할 때 더 많은 피해를 줍니다."
+        }
+      ],
+      "source": {
+        "title": "파멸의 탑 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211016171938/https://heroesofthestorm.com/ko-kr/battlegrounds/towers-of-doom/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/towers-of-doom/"
+      }
+    },
+    "volskaya-foundry": {
+      "name": "Volskaya Foundry",
+      "objective": [
+        {
+          "title": "점령 점수",
+          "text": "주기적으로 거점이 활성화됩니다. 거점을 완전히 점령하면 거대 로봇을 조종할 수 있습니다."
+        },
+        {
+          "title": "수호자 조종",
+          "text": "트리글라브 수호자 로봇은 두 플레이어가 조종할 수 있습니다. 한 명은 조종사를, 한 명은 사수를 맡아 협력하십시오."
+        },
+        {
+          "title": "파괴",
+          "text": "수호자의 기술은 구조물과 영웅에게 무시무시한 피해를 줍니다. 적절하게 사용해서 적을 무찌르세요."
+        }
+      ],
+      "source": {
+        "title": "볼스카야 공장 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211128210130/https://heroesofthestorm.com/ko-kr/battlegrounds/volskaya/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/volskaya/"
+      }
+    },
+    "warhead-junction": {
+      "name": "Warhead Junction",
+      "objective": [
+        {
+          "title": "핵탄두 배치",
+          "text": "주기적으로 다수의 핵탄두가 전장에 생성됩니다."
+        },
+        {
+          "title": "핵탄두 수집",
+          "text": "핵탄두를 수집하면 핵 공격을 할 수 있습니다. 핵탄두를 사용하지 못하고 죽으면 핵탄두를 떨어트리게 됩니다!"
+        },
+        {
+          "title": "초토화",
+          "text": "핵 공격을 가해 적 팀의 구조물들을 초토화시키세요."
+        }
+      ],
+      "source": {
+        "title": "핵탄두 격전지 - 히어로즈 오브 더 스톰",
+        "url": "https://web.archive.org/web/20211023183229/https://heroesofthestorm.com/ko-kr/battlegrounds/warhead-junction/",
+        "original": "https://heroesofthestorm.com/ko-kr/battlegrounds/warhead-junction/"
+      }
+    }
+  }
+}
