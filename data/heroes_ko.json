@@ -40,7 +40,8 @@
 "role": "Support",
 "role_ko": "지원가",
 "short_name": "abathur",
-"portrait": "img/heroes/abathur.png"
+"portrait": "img/heroes/abathur.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Alarak",
@@ -50,7 +51,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "alarak",
-"portrait": "img/heroes/alarak.png"
+"portrait": "img/heroes/alarak.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Alexstrasza",
@@ -60,7 +62,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "alexstrasza",
-"portrait": "img/heroes/alexstrasza.png"
+"portrait": "img/heroes/alexstrasza.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Ana",
@@ -70,7 +73,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "ana",
-"portrait": "img/heroes/ana.png"
+"portrait": "img/heroes/ana.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Anduin",
@@ -80,7 +84,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "anduin",
-"portrait": "img/heroes/anduin.png"
+"portrait": "img/heroes/anduin.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Anub'arak",
@@ -90,7 +95,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "anubarak",
-"portrait": "img/heroes/anub-arak.png"
+"portrait": "img/heroes/anub-arak.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Artanis",
@@ -100,7 +106,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "artanis",
-"portrait": "img/heroes/artanis.png"
+"portrait": "img/heroes/artanis.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Arthas",
@@ -110,7 +117,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "arthas",
-"portrait": "img/heroes/arthas.png"
+"portrait": "img/heroes/arthas.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Auriel",
@@ -120,7 +128,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "auriel",
-"portrait": "img/heroes/auriel.png"
+"portrait": "img/heroes/auriel.png",
+"franchise": "Diablo"
 },
 {
 "name": "Azmodan",
@@ -130,7 +139,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "azmodan",
-"portrait": "img/heroes/azmodan.png"
+"portrait": "img/heroes/azmodan.png",
+"franchise": "Diablo"
 },
 {
 "name": "Blaze",
@@ -140,7 +150,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "blaze",
-"portrait": "img/heroes/blaze.png"
+"portrait": "img/heroes/blaze.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Brightwing",
@@ -150,7 +161,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "brightwing",
-"portrait": "img/heroes/brightwing.png"
+"portrait": "img/heroes/brightwing.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Cassia",
@@ -160,7 +172,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "cassia",
-"portrait": "img/heroes/cassia.png"
+"portrait": "img/heroes/cassia.png",
+"franchise": "Diablo"
 },
 {
 "name": "Chen",
@@ -170,7 +183,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "chen",
-"portrait": "img/heroes/chen.png"
+"portrait": "img/heroes/chen.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Cho",
@@ -180,7 +194,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "cho",
-"portrait": "img/heroes/cho.png"
+"portrait": "img/heroes/cho.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Chromie",
@@ -190,7 +205,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "chromie",
-"portrait": "img/heroes/chromie.png"
+"portrait": "img/heroes/chromie.png",
+"franchise": "Warcraft"
 },
 {
 "name": "D.Va",
@@ -200,7 +216,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "dva",
-"portrait": "img/heroes/d-va.png"
+"portrait": "img/heroes/d-va.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Deathwing",
@@ -210,7 +227,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "deathwing",
-"portrait": "img/heroes/deathwing.png"
+"portrait": "img/heroes/deathwing.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Deckard",
@@ -220,7 +238,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "deckard",
-"portrait": "img/heroes/deckard.png"
+"portrait": "img/heroes/deckard.png",
+"franchise": "Diablo"
 },
 {
 "name": "Dehaka",
@@ -230,7 +249,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "dehaka",
-"portrait": "img/heroes/dehaka.png"
+"portrait": "img/heroes/dehaka.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Diablo",
@@ -240,7 +260,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "diablo",
-"portrait": "img/heroes/diablo.png"
+"portrait": "img/heroes/diablo.png",
+"franchise": "Diablo"
 },
 {
 "name": "E.T.C.",
@@ -250,7 +271,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "etc",
-"portrait": "img/heroes/e-t-c.png"
+"portrait": "img/heroes/e-t-c.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Falstad",
@@ -260,7 +282,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "falstad",
-"portrait": "img/heroes/falstad.png"
+"portrait": "img/heroes/falstad.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Fenix",
@@ -270,7 +293,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "fenix",
-"portrait": "img/heroes/fenix.png"
+"portrait": "img/heroes/fenix.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Gall",
@@ -280,7 +304,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "gall",
-"portrait": "img/heroes/gall.png"
+"portrait": "img/heroes/gall.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Garrosh",
@@ -290,7 +315,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "garrosh",
-"portrait": "img/heroes/garrosh.png"
+"portrait": "img/heroes/garrosh.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Gazlowe",
@@ -300,7 +326,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "gazlowe",
-"portrait": "img/heroes/gazlowe.png"
+"portrait": "img/heroes/gazlowe.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Genji",
@@ -310,7 +337,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "genji",
-"portrait": "img/heroes/genji.png"
+"portrait": "img/heroes/genji.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Greymane",
@@ -320,7 +348,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "greymane",
-"portrait": "img/heroes/greymane.png"
+"portrait": "img/heroes/greymane.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Gul'dan",
@@ -330,7 +359,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "guldan",
-"portrait": "img/heroes/gul-dan.png"
+"portrait": "img/heroes/gul-dan.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Hanzo",
@@ -340,7 +370,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "hanzo",
-"portrait": "img/heroes/hanzo.png"
+"portrait": "img/heroes/hanzo.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Hogger",
@@ -350,7 +381,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "hogger",
-"portrait": "img/heroes/hogger.png"
+"portrait": "img/heroes/hogger.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Illidan",
@@ -360,7 +392,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "illidan",
-"portrait": "img/heroes/illidan.png"
+"portrait": "img/heroes/illidan.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Imperius",
@@ -370,7 +403,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "imperius",
-"portrait": "img/heroes/imperius.png"
+"portrait": "img/heroes/imperius.png",
+"franchise": "Diablo"
 },
 {
 "name": "Jaina",
@@ -380,7 +414,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "jaina",
-"portrait": "img/heroes/jaina.png"
+"portrait": "img/heroes/jaina.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Johanna",
@@ -390,7 +425,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "johanna",
-"portrait": "img/heroes/johanna.png"
+"portrait": "img/heroes/johanna.png",
+"franchise": "Diablo"
 },
 {
 "name": "Junkrat",
@@ -400,7 +436,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "junkrat",
-"portrait": "img/heroes/junkrat.png"
+"portrait": "img/heroes/junkrat.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Kael'thas",
@@ -410,7 +447,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "kaelthas",
-"portrait": "img/heroes/kael-thas.png"
+"portrait": "img/heroes/kael-thas.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Kel'Thuzad",
@@ -420,7 +458,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "kelthuzad",
-"portrait": "img/heroes/kel-thuzad.png"
+"portrait": "img/heroes/kel-thuzad.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Kerrigan",
@@ -430,7 +469,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "kerrigan",
-"portrait": "img/heroes/kerrigan.png"
+"portrait": "img/heroes/kerrigan.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Kharazim",
@@ -440,7 +480,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "kharazim",
-"portrait": "img/heroes/kharazim.png"
+"portrait": "img/heroes/kharazim.png",
+"franchise": "Diablo"
 },
 {
 "name": "Leoric",
@@ -450,7 +491,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "leoric",
-"portrait": "img/heroes/leoric.png"
+"portrait": "img/heroes/leoric.png",
+"franchise": "Diablo"
 },
 {
 "name": "Li Li",
@@ -460,7 +502,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "lili",
-"portrait": "img/heroes/li-li.png"
+"portrait": "img/heroes/li-li.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Li-Ming",
@@ -470,7 +513,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "liming",
-"portrait": "img/heroes/li-ming.png"
+"portrait": "img/heroes/li-ming.png",
+"franchise": "Diablo"
 },
 {
 "name": "Lt. Morales",
@@ -480,7 +524,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "ltmorales",
-"portrait": "img/heroes/lt-morales.png"
+"portrait": "img/heroes/lt-morales.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Lunara",
@@ -490,7 +535,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "lunara",
-"portrait": "img/heroes/lunara.png"
+"portrait": "img/heroes/lunara.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Lúcio",
@@ -500,7 +546,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "lucio",
-"portrait": "img/heroes/lucio.png"
+"portrait": "img/heroes/lucio.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Maiev",
@@ -510,7 +557,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "maiev",
-"portrait": "img/heroes/maiev.png"
+"portrait": "img/heroes/maiev.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Mal'Ganis",
@@ -520,7 +568,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "malganis",
-"portrait": "img/heroes/mal-ganis.png"
+"portrait": "img/heroes/mal-ganis.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Malfurion",
@@ -530,7 +579,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "malfurion",
-"portrait": "img/heroes/malfurion.png"
+"portrait": "img/heroes/malfurion.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Malthael",
@@ -540,7 +590,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "malthael",
-"portrait": "img/heroes/malthael.png"
+"portrait": "img/heroes/malthael.png",
+"franchise": "Diablo"
 },
 {
 "name": "Medivh",
@@ -550,7 +601,8 @@
 "role": "Support",
 "role_ko": "지원가",
 "short_name": "medivh",
-"portrait": "img/heroes/medivh.png"
+"portrait": "img/heroes/medivh.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Mei",
@@ -560,7 +612,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "mei",
-"portrait": "img/heroes/mei.png"
+"portrait": "img/heroes/mei.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Mephisto",
@@ -570,7 +623,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "mephisto",
-"portrait": "img/heroes/mephisto.png"
+"portrait": "img/heroes/mephisto.png",
+"franchise": "Diablo"
 },
 {
 "name": "Muradin",
@@ -580,7 +634,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "muradin",
-"portrait": "img/heroes/muradin.png"
+"portrait": "img/heroes/muradin.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Murky",
@@ -590,7 +645,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "murky",
-"portrait": "img/heroes/murky.png"
+"portrait": "img/heroes/murky.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Nazeebo",
@@ -600,7 +656,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "nazeebo",
-"portrait": "img/heroes/nazeebo.png"
+"portrait": "img/heroes/nazeebo.png",
+"franchise": "Diablo"
 },
 {
 "name": "Nova",
@@ -610,7 +667,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "nova",
-"portrait": "img/heroes/nova.png"
+"portrait": "img/heroes/nova.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Orphea",
@@ -620,7 +678,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "orphea",
-"portrait": "img/heroes/orphea.png"
+"portrait": "img/heroes/orphea.png",
+"franchise": "Nexus"
 },
 {
 "name": "Probius",
@@ -630,7 +689,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "probius",
-"portrait": "img/heroes/probius.png"
+"portrait": "img/heroes/probius.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Qhira",
@@ -640,7 +700,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "qhira",
-"portrait": "img/heroes/qhira.png"
+"portrait": "img/heroes/qhira.png",
+"franchise": "Nexus"
 },
 {
 "name": "Ragnaros",
@@ -650,7 +711,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "ragnaros",
-"portrait": "img/heroes/ragnaros.png"
+"portrait": "img/heroes/ragnaros.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Raynor",
@@ -660,7 +722,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "raynor",
-"portrait": "img/heroes/raynor.png"
+"portrait": "img/heroes/raynor.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Rehgar",
@@ -670,7 +733,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "rehgar",
-"portrait": "img/heroes/rehgar.png"
+"portrait": "img/heroes/rehgar.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Rexxar",
@@ -680,7 +744,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "rexxar",
-"portrait": "img/heroes/rexxar.png"
+"portrait": "img/heroes/rexxar.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Samuro",
@@ -690,7 +755,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "samuro",
-"portrait": "img/heroes/samuro.png"
+"portrait": "img/heroes/samuro.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Sgt. Hammer",
@@ -700,7 +766,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "sgthammer",
-"portrait": "img/heroes/sgt-hammer.png"
+"portrait": "img/heroes/sgt-hammer.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Sonya",
@@ -710,7 +777,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "sonya",
-"portrait": "img/heroes/sonya.png"
+"portrait": "img/heroes/sonya.png",
+"franchise": "Diablo"
 },
 {
 "name": "Stitches",
@@ -720,7 +788,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "stitches",
-"portrait": "img/heroes/stitches.png"
+"portrait": "img/heroes/stitches.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Stukov",
@@ -730,7 +799,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "stukov",
-"portrait": "img/heroes/stukov.png"
+"portrait": "img/heroes/stukov.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Sylvanas",
@@ -740,7 +810,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "sylvanas",
-"portrait": "img/heroes/sylvanas.png"
+"portrait": "img/heroes/sylvanas.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Tassadar",
@@ -750,7 +821,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "tassadar",
-"portrait": "img/heroes/tassadar.png"
+"portrait": "img/heroes/tassadar.png",
+"franchise": "Starcraft"
 },
 {
 "name": "The Butcher",
@@ -760,7 +832,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "thebutcher",
-"portrait": "img/heroes/the-butcher.png"
+"portrait": "img/heroes/the-butcher.png",
+"franchise": "Diablo"
 },
 {
 "name": "The Lost Vikings",
@@ -770,7 +843,8 @@
 "role": "Support",
 "role_ko": "지원가",
 "short_name": "thelostvikings",
-"portrait": "img/heroes/the-lost-vikings.png"
+"portrait": "img/heroes/the-lost-vikings.png",
+"franchise": "Classic"
 },
 {
 "name": "Thrall",
@@ -780,7 +854,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "thrall",
-"portrait": "img/heroes/thrall.png"
+"portrait": "img/heroes/thrall.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Tracer",
@@ -790,7 +865,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "tracer",
-"portrait": "img/heroes/tracer.png"
+"portrait": "img/heroes/tracer.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Tychus",
@@ -800,7 +876,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "tychus",
-"portrait": "img/heroes/tychus.png"
+"portrait": "img/heroes/tychus.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Tyrael",
@@ -810,7 +887,8 @@
 "role": "Tank",
 "role_ko": "전사",
 "short_name": "tyrael",
-"portrait": "img/heroes/tyrael.png"
+"portrait": "img/heroes/tyrael.png",
+"franchise": "Diablo"
 },
 {
 "name": "Tyrande",
@@ -820,7 +898,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "tyrande",
-"portrait": "img/heroes/tyrande.png"
+"portrait": "img/heroes/tyrande.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Uther",
@@ -830,7 +909,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "uther",
-"portrait": "img/heroes/uther.png"
+"portrait": "img/heroes/uther.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Valeera",
@@ -840,7 +920,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "valeera",
-"portrait": "img/heroes/valeera.png"
+"portrait": "img/heroes/valeera.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Valla",
@@ -850,7 +931,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "valla",
-"portrait": "img/heroes/valla.png"
+"portrait": "img/heroes/valla.png",
+"franchise": "Diablo"
 },
 {
 "name": "Varian",
@@ -860,7 +942,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "varian",
-"portrait": "img/heroes/varian.png"
+"portrait": "img/heroes/varian.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Whitemane",
@@ -870,7 +953,8 @@
 "role": "Healer",
 "role_ko": "치유사",
 "short_name": "whitemane",
-"portrait": "img/heroes/whitemane.png"
+"portrait": "img/heroes/whitemane.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Xul",
@@ -880,7 +964,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "xul",
-"portrait": "img/heroes/xul.png"
+"portrait": "img/heroes/xul.png",
+"franchise": "Diablo"
 },
 {
 "name": "Yrel",
@@ -890,7 +975,8 @@
 "role": "Bruiser",
 "role_ko": "투사",
 "short_name": "yrel",
-"portrait": "img/heroes/yrel.png"
+"portrait": "img/heroes/yrel.png",
+"franchise": "Warcraft"
 },
 {
 "name": "Zagara",
@@ -900,7 +986,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "zagara",
-"portrait": "img/heroes/zagara.png"
+"portrait": "img/heroes/zagara.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Zarya",
@@ -910,7 +997,8 @@
 "role": "Support",
 "role_ko": "지원가",
 "short_name": "zarya",
-"portrait": "img/heroes/zarya.png"
+"portrait": "img/heroes/zarya.png",
+"franchise": "Overwatch"
 },
 {
 "name": "Zeratul",
@@ -920,7 +1008,8 @@
 "role": "Melee Assassin",
 "role_ko": "근접 암살자",
 "short_name": "zeratul",
-"portrait": "img/heroes/zeratul.png"
+"portrait": "img/heroes/zeratul.png",
+"franchise": "Starcraft"
 },
 {
 "name": "Zul'jin",
@@ -930,7 +1019,8 @@
 "role": "Ranged Assassin",
 "role_ko": "원거리 암살자",
 "short_name": "zuljin",
-"portrait": "img/heroes/zul-jin.png"
+"portrait": "img/heroes/zul-jin.png",
+"franchise": "Warcraft"
 }
 ],
 "source": {
