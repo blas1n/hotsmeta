@@ -1,0 +1,224 @@
+{
+ "player": {
+  "battletag": "Zemill#1940",
+  "region": "NA",
+  "account_level": 1802,
+  "wins": 3502,
+  "losses": 3182,
+  "win_rate": 52.39,
+  "kda": 4.54,
+  "mvp_rate": 17.82,
+  "modes": [
+   {
+    "mode": "sl",
+    "mmr": 2908,
+    "tier": "Diamond 2",
+    "wins": 48,
+    "losses": 45,
+    "win_rate": 51.61
+   },
+   {
+    "mode": "qm",
+    "mmr": 2847,
+    "tier": "Master",
+    "wins": 1898,
+    "losses": 1761,
+    "win_rate": 51.87
+   },
+   {
+    "mode": "ud",
+    "mmr": 2890,
+    "tier": "Master",
+    "wins": 96,
+    "losses": 65,
+    "win_rate": 59.63
+   },
+   {
+    "mode": "ar",
+    "mmr": 2802,
+    "tier": "Diamond 5",
+    "wins": 853,
+    "losses": 773,
+    "win_rate": 52.46
+   },
+   {
+    "mode": "hl",
+    "mmr": 2859,
+    "tier": "Master",
+    "wins": 568,
+    "losses": 506,
+    "win_rate": 52.89
+   },
+   {
+    "mode": "tl",
+    "mmr": 2928,
+    "tier": "Diamond 1",
+    "wins": 39,
+    "losses": 31,
+    "win_rate": 55.71
+   }
+  ],
+  "roles": [
+   {
+    "role": "Tank",
+    "win_rate": 48.52
+   },
+   {
+    "role": "Bruiser",
+    "win_rate": 56.46
+   },
+   {
+    "role": "Healer",
+    "win_rate": 52.41
+   },
+   {
+    "role": "Support",
+    "win_rate": 46.46
+   },
+   {
+    "role": "Melee Assassin",
+    "win_rate": 50.74
+   },
+   {
+    "role": "Ranged Assassin",
+    "win_rate": 52.78
+   }
+  ],
+  "heroes_most_played": [
+   {
+    "hero": "Lúcio",
+    "short_name": "lucio",
+    "games": 300,
+    "wins": 175,
+    "losses": 125,
+    "win_rate": 58.33,
+    "last_played": "2026-09-26 02:32:09"
+   },
+   {
+    "hero": "Li-Ming",
+    "short_name": "liming",
+    "games": 261,
+    "wins": 143,
+    "losses": 118,
+    "win_rate": 54.79,
+    "last_played": "2026-09-22 14:13:26"
+   },
+   {
+    "hero": "Kel'Thuzad",
+    "short_name": "kelthuzad",
+    "games": 241,
+    "wins": 122,
+    "losses": 119,
+    "win_rate": 50.62,
+    "last_played": "2026-09-26 02:01:10"
+   }
+  ],
+  "heroes_best": [
+   {
+    "hero": "Stitches",
+    "short_name": "stitches",
+    "games": 69,
+    "wins": 47,
+    "losses": 22,
+    "win_rate": 68.12,
+    "last_played": "2026-09-22 21:17:15"
+   },
+   {
+    "hero": "Ragnaros",
+    "short_name": "ragnaros",
+    "games": 112,
+    "wins": 74,
+    "losses": 38,
+    "win_rate": 66.07,
+    "last_played": "2026-08-24 17:07:02"
+   },
+   {
+    "hero": "Sgt. Hammer",
+    "short_name": "sgthammer",
+    "games": 20,
+    "wins": 13,
+    "losses": 7,
+    "win_rate": 65.0,
+    "last_played": "2025-06-10 00:30:06"
+   }
+  ],
+  "maps_most_played": [
+   {
+    "map": "Braxis Outpost",
+    "games": 499,
+    "wins": 257,
+    "losses": 242,
+    "win_rate": 51.5
+   },
+   {
+    "map": "Silver City",
+    "games": 476,
+    "wins": 248,
+    "losses": 228,
+    "win_rate": 52.1
+   },
+   {
+    "map": "Lost Cavern",
+    "games": 475,
+    "wins": 264,
+    "losses": 211,
+    "win_rate": 55.58
+   }
+  ],
+  "recent_matches": [
+   {
+    "replay_id": 65513747,
+    "date": "2026-09-28 01:20:39",
+    "mode": "sl",
+    "map": "Volskaya Foundry",
+    "hero": "Deckard",
+    "short_name": "deckard",
+    "win": true,
+    "mmr_change": 2.58
+   },
+   {
+    "replay_id": 65513434,
+    "date": "2026-09-28 00:42:19",
+    "mode": "sl",
+    "map": "Garden of Terror",
+    "hero": "Anduin",
+    "short_name": "anduin",
+    "win": false,
+    "mmr_change": -6.48
+   },
+   {
+    "replay_id": 65513084,
+    "date": "2026-09-28 00:00:47",
+    "mode": "sl",
+    "map": "Dragon Shire",
+    "hero": "Deckard",
+    "short_name": "deckard",
+    "win": false,
+    "mmr_change": -4.79
+   },
+   {
+    "replay_id": 65509023,
+    "date": "2026-09-27 20:46:06",
+    "mode": "ar",
+    "map": "Braxis Outpost",
+    "hero": "Alexstrasza",
+    "short_name": "alexstrasza",
+    "win": true,
+    "mmr_change": 4.6
+   },
+   {
+    "replay_id": 65484996,
+    "date": "2026-09-27 00:15:45",
+    "mode": "sl",
+    "map": "Battlefield of Eternity",
+    "hero": "Auriel",
+    "short_name": "auriel",
+    "win": false,
+    "mmr_change": -3.83
+   }
+  ]
+ },
+ "fetched_at": "2026-09-29T00:25:00Z",
+ "stale": false,
+ "notice": null
+}
