@@ -1,0 +1,111 @@
+{
+ "builds": [
+  {
+   "build": "2.55.17.98025",
+   "previous": "2.55.17.97771",
+   "first_seen": "2026-09-12T17:56:02Z",
+   "parser": 1,
+   "heroes": {}
+  },
+  {
+   "build": "2.55.17.97771",
+   "previous": "2.55.17.97650",
+   "first_seen": "2026-08-12T18:13:03Z",
+   "parser": 1,
+   "heroes": {
+    "Chromie": [
+     {
+      "talent": "ChromieSandBlastOnceAgainTheFirstTime",
+      "ko": "다시 처음으로",
+      "en": "Once Again the First Time",
+      "changes": [
+       {
+        "old": "-0.55",
+        "new": "-0.5"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "build": "2.55.17.97650",
+   "previous": "2.55.17.97605",
+   "first_seen": "2026-07-24T17:21:04Z",
+   "parser": 1,
+   "heroes": {
+    "Chen": [
+     {
+      "talent": "ChenMasteryKegSmashATouchOfHoney",
+      "ko": "꿀 바르기",
+      "en": "A Touch of Honey",
+      "changes": [
+       {
+        "old": "-0.3",
+        "new": "-0.2"
+       }
+      ]
+     }
+    ],
+    "Gall": [
+     {
+      "talent": "GallDoubleTrouble",
+      "ko": "이중고",
+      "en": "Double Trouble",
+      "changes": [
+       {
+        "old": "0.5",
+        "new": "1"
+       }
+      ]
+     }
+    ],
+    "Chromie": [
+     {
+      "talent": "ChromieTimeTrapChronicConditions",
+      "ko": "만성적인 현상",
+      "en": "Chronic Conditions",
+      "changes": [
+       {
+        "old": "0.2",
+        "new": "0.25"
+       },
+       {
+        "old": "-0.2",
+        "new": "-0.25"
+       }
+      ]
+     },
+     {
+      "talent": "ChromieSandBlastOnceAgainTheFirstTime",
+      "ko": "다시 처음으로",
+      "en": "Once Again the First Time",
+      "changes": [
+       {
+        "old": "-0.55",
+        "new": "-0.5"
+       }
+      ]
+     }
+    ],
+    "Yrel": [
+     {
+      "talent": "YrelVindicationLightOfKarabor",
+      "ko": "카라보르의 빛",
+      "en": "Light of Karabor",
+      "changes": [
+       {
+        "old": "0.45",
+        "new": "0.4"
+       },
+       {
+        "old": "0.9",
+        "new": "0.8"
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}
