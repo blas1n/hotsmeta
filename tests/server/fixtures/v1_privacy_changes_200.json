@@ -1,0 +1,24 @@
+{
+ "status": 200,
+ "headers": {
+  "content-type": "application/json",
+  "x-hp-quota-limit": "10080",
+  "x-hp-quota-remaining": "10079",
+  "x-hp-quota-reset": "604799",
+  "x-ratelimit-limit": "60",
+  "x-ratelimit-remaining": "59"
+ },
+ "body": {
+  "changes": [
+   {"battletag": "Razhag#2142", "region": 2, "state": "private", "changed_at": "2026-09-01T00:00:00+00:00"},
+   {"battletag": "FUNKB0T#1899", "region": 1, "state": "private", "changed_at": "2026-09-01T00:00:00+00:00"},
+   {"battletag": "Zen#1643", "region": 1, "state": "private", "changed_at": "2026-09-01T00:00:00+00:00"},
+   {"battletag": "fEn0z#2350", "region": 2, "state": "private", "changed_at": "2026-09-01T00:00:00+00:00"},
+   {"battletag": "Radio#2147", "region": 2, "state": "private", "changed_at": "2026-09-01T00:00:00+00:00"}
+  ],
+  "next_since": "2026-09-01T00:00:00+00:00",
+  "next_after_id": 319,
+  "has_more": true
+ },
+ "_recorded": "2026-10-01 GET /players/privacy/changes?limit=5 (first sync, no since); headers filtered to quota/rate-limit"
+}
